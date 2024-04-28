@@ -17,3 +17,4 @@ local.properties
 secret.gpg
 secret.gradle
 /library
+/gradle/wrapper/
